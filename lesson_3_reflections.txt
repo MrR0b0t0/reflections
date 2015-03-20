@@ -2,3 +2,9 @@ when would you want to create a remote repository rather than keeping all your w
 
 to use as a central repository for when using multiple computers and have multiple users working on the same project.
 this also allows you to be mobile. working anywhere that as an internet connection a be able to sync.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Same reason you dont want automatic saves done locally. you dont want random saves here and there which are hard to track
+and use. you want to save when it make sense at a particular milestone or a group of changes.
+
