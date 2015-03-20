@@ -1,1 +1,4 @@
 when would you want to create a remote repository rather than keeping all your work local?
+
+to use as a central repository for when using multiple computers and have multiple users working on the same project.
+this also allows you to be mobile. working anywhere that as an internet connection a be able to sync.
