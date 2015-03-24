@@ -17,5 +17,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 you can see the differences, and know what you could work on. this helps in variuous situations such as traveling, or want to have a local copy for some reason.
 
+how would you collaborate without using Git or GitHub? What would be easeir, and what would be harder?
+
+without git or another tool, collaboration would involve keeping track via email and/or taking notes. perhaps even storing a "what changed" file in a directory. This would not involve setting up a github account or creating a git repository. however tracking and making different versions would be a hassle. on large scale projects this would become a real mess quickly.
+
 
  
