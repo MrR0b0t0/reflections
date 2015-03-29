@@ -21,5 +21,9 @@ how would you collaborate without using Git or GitHub? What would be easeir, and
 
 without git or another tool, collaboration would involve keeping track via email and/or taking notes. perhaps even storing a "what changed" file in a directory. This would not involve setting up a github account or creating a git repository. however tracking and making different versions would be a hassle. on large scale projects this would become a real mess quickly.
 
+when would you want to make changes in a separate branch rather than directly in master? what benefits does each approach have?
+
+while more complicated, when working several deviations or concepts of a particular proeject ist better to branch. Also when collaborating with others or working on other's projects it is also better to work off of branches. this keeps the master "cleaner" and also allows for simultanious work to be performed. if you are a sole user on a project, and the directions is straight forward using the master branch would be better.
+
 
  
